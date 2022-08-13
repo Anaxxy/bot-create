@@ -1,2 +1,3 @@
-# bot-create
-start making a bot ONCE VERSION
+npm init -y
+npm i discord.js
+npm i -g nodemon
